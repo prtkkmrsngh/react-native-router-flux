@@ -1,9 +1,7 @@
-import React, {
-  PropTypes,
-} from 'react';
 import {
   View,
 } from 'react-native';
+import PropTypes from 'prop-types';
 import DefaultRenderer from './DefaultRenderer';
 
 const propTypes = {
